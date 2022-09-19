@@ -8,7 +8,7 @@ true
 false //para validar si tomamos una opción o no
 
 null
-undefined // valores reservados (placeholder) cuando nos falto un valor podriamos usarlo
+undefined // valores vacios reservados (placeholder) cuando nos falto un valor podriamos usarlo
 
 
 //valores no primitivos o tipo objeto
