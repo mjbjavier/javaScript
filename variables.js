@@ -12,6 +12,7 @@ edad
 
 var elementos = ["Computador", "celular"]; //aquí estamos declarando e inicializando una variable
 
+//variable tipo objeto
 var persona = {
     nombre: "Mario",
     edad: 30
