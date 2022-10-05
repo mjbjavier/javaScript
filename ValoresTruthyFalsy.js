@@ -6,6 +6,8 @@
  Boolean (NaN); //Valores falsos
  Boolean (undefined); //Valores falsos
  Boolean (false); //Valores falsos
+ Boolean (""); //Valores falsos
+
 
 
 
