@@ -12,7 +12,7 @@ edad
 
 var elementos = ["Computador", "celular"]; //aquí estamos declarando e inicializando una variable
                                            // array aquí declaramos e inicializamos una variable
-elementos[1] // así llamamos el primer elemnto de la variable en este caso celular
+elementos[1] // así llamamos el primer elemento de la variable en este caso, celular
 
                                            //variable tipo objeto
 var persona = {

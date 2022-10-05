@@ -8,7 +8,7 @@ console.log(b);
 
 typeof b
 'string'
-var c = String(a);
+var c = String(a);//metodo String
 //undefined
 
 typeof c
@@ -17,7 +17,7 @@ console.log(c);
 //VM1790:1 20
 //undefined
 
-var d = Number(c);
+var d = Number(c);//metodo Number
 //undefined
 typeof d
-'number'
+'number'    

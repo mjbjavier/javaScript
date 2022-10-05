@@ -1,4 +1,4 @@
-//probar en estas expresiones en la consola del navegador
+//probars estas expresiones en la consola del navegador
 
 function saludarPersonas(personas)  {
     console.log(personas); //fx del navegador para imprimir en consola
